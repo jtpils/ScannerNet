@@ -1,0 +1,11 @@
+fire
+matplotlib
+numba
+nuscenes-devkit=1.0.1
+opencv-python
+pillow
+protobuf
+torch==1.0.0
+tensorboardX
+scikit-image
+scipy
